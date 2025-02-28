@@ -1,10 +1,10 @@
 <div align="center">
 
-# 📋 `Task Manager with Drag-and-Drop` 🚀 🎵
+# 📋 `Task Manager with Drag-and-Drop` 🚀  🎵
 
 ## `Task Manager with Drag-and-Drop`
 
-#### 🌟 **Live Preview** 🌟 → 💕 [**Task Manager**](https://musicplayer2025.netlify.app/) 💕
+#### 🌟 **Live Preview** 🌟 → 💕 [**Task Manager**](https://ai-powered-trello-task-manager-javascript-project-3.vercel.app/) 💕
 
 🎉 Click to explore the fun and laughter! 😄
 
